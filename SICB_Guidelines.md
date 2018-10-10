@@ -1,3 +1,6 @@
+**DEADLINE: 17 October 2018**
+Proposed investigation **(3000 characters maximum, including spaces)** is the most critical part of the proposal.
+
 ## Guidelines
 - In the first paragraph,
   - state the focal problem clearly and concisely with an explicit research hypothesis that has been set in the context of a broader theory or model.
