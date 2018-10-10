@@ -1,4 +1,5 @@
-**DEADLINE: 17 October 2018**
+**DEADLINE: 17 October 2018**  
+
 Proposed investigation **(3000 characters maximum, including spaces)** is the most critical part of the proposal.
 
 ## Guidelines
